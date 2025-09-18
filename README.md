@@ -90,7 +90,7 @@ Practical application of binary analysis techniques.
 
 ## 📌 About
 
-Author: Yeabsira Mihret
-Project Type: Reverse Engineering Challenge
-Language: C
-Focus: Binary analysis & RE practice
+l.Author: Yeabsira Mihret
+l.Project Type: Reverse Engineering Challenge
+l.Language: C
+l.Focus: Binary analysis & RE practice
