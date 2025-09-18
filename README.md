@@ -31,7 +31,7 @@ README.md → Documentation and instructions.
 
 1. Download / clone the repository
 ```bash
-git clone https://github.com/yeabsira-mihret/secure-note-locker/secure-note-locker.git
+git clone https://github.com/yeabsira-mihret/secure-note-locker.git
 cd secure-note-locker
 ```
 2. Make the binary executable (Linux/MacOS):
